@@ -1,2 +1,2 @@
-# KuruvaSatyaGanesh-TDD-Junit
+# Kiran-Reddy-TDD-Junit
 Epam Task
